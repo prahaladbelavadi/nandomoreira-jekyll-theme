@@ -30,6 +30,7 @@ GEM
     fastimage (1.9.0)
       addressable (~> 2.3.5)
     ffi (1.9.18)
+    ffi (1.9.18-x86-mingw32)
     hike (1.2.3)
     jekyll (2.5.3)
       classifier-reborn (~> 2.0)
@@ -109,6 +110,7 @@ GEM
 
 PLATFORMS
   ruby
+  x86-mingw32
 
 DEPENDENCIES
   compass (~> 1.0.3)
@@ -118,4 +120,4 @@ DEPENDENCIES
   sass (~> 3.4.10)
 
 BUNDLED WITH
-   1.16.0
+   1.17.1
